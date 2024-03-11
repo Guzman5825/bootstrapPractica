@@ -1,0 +1,20 @@
+{
+  "name": "bootstrappractica",
+  "version": "1.0.0",
+  "description": "practica de bootstrap -css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guzman5825/bootstrapPractica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guzman5825/bootstrapPractica/issues"
+  },
+  "homepage": "https://github.com/Guzman5825/bootstrapPractica#readme"
+}
