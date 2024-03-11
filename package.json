@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Guzman5825/bootstrapPractica/issues"
   },
-  "homepage": "https://github.com/Guzman5825/bootstrapPractica#readme"
+  "homepage": "https://github.com/Guzman5825/bootstrapPractica#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
